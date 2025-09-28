@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Profile
+    url: https://github.com/HowieDuhzit
+    about: Main hub for all projects and discussions.
+  - name: Personal Website
+    url: https://HowieDuhzit.Best
+    about: Blog, documentation, and project information.
+  - name: Security Issues
+    url: https://github.com/HowieDuhzit/HowieDuhzit/security/advisories
+    about: Please report security vulnerabilities here.
+  - name: Discord Community
+    url: https://discord.gg/ZFp9wegP
+    about: Join our community for support and discussions.
