@@ -11,13 +11,13 @@ We release patches for security vulnerabilities. Which versions are eligible for
 
 ## Reporting a Vulnerability
 
-We take the security of our projects seriously. If you discover a security vulnerability, please follow these guidelines:
+I take the security of my projects seriously. If you discover a security vulnerability, please follow these guidelines:
 
 ### How to Report
 
 1. **Do NOT** file a public issue on GitHub
-2. **Do NOT** discuss the vulnerability publicly until we've had a chance to address it
-3. Send your report to our security team at: [Contact@HowieDuhzit.Best](mailto:Contact@HowieDuhzit.Best)
+2. **Do NOT** discuss the vulnerability publicly until I've had a chance to address it
+3. Send your report to me at: [Contact@HowieDuhzit.Best](mailto:Contact@HowieDuhzit.Best)
 
 ### What to Include in Your Report
 

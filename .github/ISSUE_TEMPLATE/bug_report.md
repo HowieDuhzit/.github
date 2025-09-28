@@ -33,4 +33,4 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 **Project Focus**
-This repository focuses on AI Systems, 3D Pipeline Engineering, and Enterprise Architecture. Please ensure your bug report relates to these areas.
+My repositories focus on AI Systems, 3D Pipeline Engineering, and Enterprise Architecture. Please ensure your bug report relates to these areas.

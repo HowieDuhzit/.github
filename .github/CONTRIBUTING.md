@@ -25,7 +25,7 @@ When you submit code changes, your submissions are understood to be under the sa
 
 ## Report bugs using GitHub's [issue tracker](https://github.com/HowieDuhzit)
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/HowieDuhzit/HowieDuhzit/issues/new?template=bug_report.md) with the bug label.
+I use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/HowieDuhzit/HowieDuhzit/issues/new?template=bug_report.md) with the bug label.
 
 **Great Bug Reports** tend to have:
 
@@ -53,7 +53,7 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 ## Focus Areas
 
-Our projects primarily focus on:
+My projects primarily focus on:
 - **AI Systems** - Enterprise AI agent deployment and automation
 - **3D Pipeline Engineering** - Industrial 3D workflow optimization
 - **Enterprise Architecture** - Scalable cloud infrastructure and API design

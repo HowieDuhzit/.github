@@ -20,4 +20,4 @@ A clear and concise description of any alternative solutions or features you've 
 Add any other context or screenshots about the feature request here.
 
 **Alignment with Project Goals**
-How does this feature align with our focus on AI Systems, 3D Pipeline Engineering, and Enterprise Architecture?
+How does this feature align with my focus on AI Systems, 3D Pipeline Engineering, and Enterprise Architecture?

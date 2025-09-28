@@ -1,10 +1,10 @@
 # Support
 
-Looking for help with our projects? Here's how to get support.
+Looking for help with my projects? Here's how to get support.
 
 ## Documentation
 
-The best place to start is our comprehensive documentation:
+The best place to start is my documentation:
 
 - **[HowieDuhzit.Best](https://HowieDuhzit.Best)** - Personal website with project documentation and services
 - **[GitHub Profile](https://github.com/HowieDuhzit)** - All open source projects and repositories
@@ -27,7 +27,7 @@ Join our Discord community for real-time support and discussions:
 
 ### Bug Reports
 
-If you've found a bug, please check if it has already been reported in our [GitHub repositories](https://github.com/HowieDuhzit). If not, [create a new issue](https://github.com/HowieDuhzit/HowieDuhzit/issues/new?template=bug_report.md) with:
+If you've found a bug, please check if it has already been reported in my [GitHub repositories](https://github.com/HowieDuhzit). If not, [create a new issue](https://github.com/HowieDuhzit/HowieDuhzit/issues/new?template=bug_report.md) with:
 
 - Clear description of the bug
 - Steps to reproduce
@@ -36,7 +36,7 @@ If you've found a bug, please check if it has already been reported in our [GitH
 
 ### Feature Requests
 
-Have an idea for a new feature? We'd love to hear it! Please [create a new issue](https://github.com/HowieDuhzit/HowieDuhzit/issues/new?template=feature_request.md) with:
+Have an idea for a new feature? I'd love to hear it! Please [create a new issue](https://github.com/HowieDuhzit/HowieDuhzit/issues/new?template=feature_request.md) with:
 
 - Clear description of the feature
 - Why it would be useful
